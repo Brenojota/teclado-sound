@@ -3,4 +3,4 @@
 Desenvolvido por : Brenojota ©
 
 Clique no link para acessar: 
-https://github.com/Brenojota/teclado-sound.git
+https://brenojota.github.io/teclado-sound/
